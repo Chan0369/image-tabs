@@ -23,6 +23,5 @@
 }
 
 .tabs a:hover {
-  background-color: #000;
-  color: #fff;
+  background-color: grey;
 }
